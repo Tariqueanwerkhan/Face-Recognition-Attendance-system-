@@ -14,10 +14,6 @@ The Main Dashboard serves as the central hub of the system, providing access to 
 The Student Management System component facilitates the management of student records, including personal information, enrollment details, and course registrations. It provides functionalities such as adding new students, updating existing records, and generating student ID cards.
 **![Student Management System Page](https://github.com/MdNadeemSarwar/Face-Recognition-Attendance-System/assets/107212111/e1d70856-9fee-4d0d-9750-98c184642056)
 
-**Training Image Dataset**
-To train the facial recognition model, we utilize a carefully curated dataset of facial images. Each image in the dataset undergoes preprocessing, including conversion into threshold values, to enhance the accuracy of facial recognition algorithms.
-![Train Data Set](https://github.com/MdNadeemSarwar/Face-Recognition-Attendance-System/assets/107212111/245e7e14-b73b-4fa7-832a-3be3fe13bf36)
-
 **Face Detection Component**
 The Face Detection Component utilizes advanced computer vision algorithms to detect and recognize human faces from images or video streams. It integrates with the facial recognition module to accurately identify individuals based on their facial features.
 ![Face scanning ](https://github.com/MdNadeemSarwar/Face-Recognition-Attendance-System/assets/107212111/90360a0e-94fa-4d51-b18b-9ff9c734788f)
